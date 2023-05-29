@@ -44,7 +44,7 @@ console.table=(["Elzero", "Elge7o", "Ahmed", "Emad"]);
 // console.log("Iam In Console");
 // document.write("Iam In Page");
 
-// >>>way one: inline comment
+// >>>way two: inline comment
 /* 
 console.log("Iam In Console");
 document.write("Iam In Page");
